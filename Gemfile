@@ -1,0 +1,15 @@
+source 'http://rubygems.org'
+
+ruby '2.7.4'
+
+gem 'sinatra'
+gem 'sinatra-contrib'
+# gem 'sequel'
+gem 'pg'
+gem 'rake'
+gem 'activerecord'
+gem 'sinatra-activerecord'
+gem 'fast_jsonapi'
+gem 'byebug'
+gem 'dry-initializer'
+gem 'dry-validation'
